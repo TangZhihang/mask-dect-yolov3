@@ -1,0 +1,9 @@
+data/
+models/best/
+src_repo/weights/
+src_repo/weights/
+src_repo/weights/
+src_repo/output/
+src_repo/__pycache/
+src_repo/.idea/
+!src_repo/weights/download_yolov3_weights.sh
